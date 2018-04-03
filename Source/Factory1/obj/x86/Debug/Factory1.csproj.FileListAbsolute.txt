@@ -1,0 +1,6 @@
+C:\Users\MORTONM\source\repos\pluralsight-factory-pattern\Source\Factory1\bin\Debug\Factory1.exe
+C:\Users\MORTONM\source\repos\pluralsight-factory-pattern\Source\Factory1\bin\Debug\Factory1.pdb
+C:\Users\MORTONM\source\repos\pluralsight-factory-pattern\Source\Factory1\obj\x86\Debug\Factory1.csprojResolveAssemblyReference.cache
+C:\Users\MORTONM\source\repos\pluralsight-factory-pattern\Source\Factory1\obj\x86\Debug\Factory1.csproj.CoreCompileInputs.cache
+C:\Users\MORTONM\source\repos\pluralsight-factory-pattern\Source\Factory1\obj\x86\Debug\Factory1.exe
+C:\Users\MORTONM\source\repos\pluralsight-factory-pattern\Source\Factory1\obj\x86\Debug\Factory1.pdb
